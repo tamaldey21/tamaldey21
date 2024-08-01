@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning B.Tech (CSE)
 - 💞️ I’m looking to collaborate on Reputed Company
 - 📫 How to reach me Through email (tamaldey728@gmail.com) or throught Whatsapp (9123010081)
-- 😄 Pronouns: 
 - ⚡ Fun fact: I love to learn news things and have much interest on digital things 
 
 <!---
