@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamaldey21
+- 👋 Hi, I’m @tamaldey
 - 👀 I’m interested in Computer learnig program
 - 🌱 I’m currently learning B.Tech (CSE)
 - 💞️ I’m looking to collaborate on Reputed Company
