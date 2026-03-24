@@ -27,14 +27,15 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Voice Assistant using Raspberry Pi**  
-👉 Smart assistant like Alexa using Python & APIs  
+🔹 **College Complaint System**  
+👉 A web-based platform for students to submit and manage complaints efficiently  
+👉 [View Project](https://tamaldey21.github.io/college_complain_box_plan/)
 
-🔹 **Full-Stack Web App**  
-👉 Complete frontend + backend project  
+🔹 **Project Coming Soon 🚧**  
+👉 Currently working on something exciting... stay tuned 👀  
 
-🔹 **Blockchain Project (Upcoming 👀)**  
-👉 Decentralized application (dApp)  
+🔹 **Project Coming Soon 🚧**  
+👉 Another innovative project is on the way 🔥  
 
 ---
 
