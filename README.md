@@ -22,7 +22,7 @@
 
 ## 📌 Projects
 🔹 Add your best projects here (very important)
-- 🚀 Project 1 – Short description  
+- 🚀 Project 1 – [https://tamaldey21.github.io/college_complain_box_plan/]
 - 🚀 Project 2 – Short description  
 - 🚀 Project 3 – Short description  
 
